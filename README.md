@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Meneses</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **manuelmeneses7200@gmail.com**
 
