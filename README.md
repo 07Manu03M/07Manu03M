@@ -14,6 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+```markdown
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -24,6 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+```
 
 
 <picture style="center">
