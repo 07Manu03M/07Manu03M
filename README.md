@@ -1,20 +1,15 @@
-<h1 align="center">Hi 👋, I'm Manuel Meneses</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
-
-- 🌱 I’m currently learning **MongoDB**
-
-- 📫 How to reach me **manuelmeneses7200@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/manuel_meneses75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manuel_meneses75" height="30" width="40" /></a>
 <a href="https://wa.me/573007567608" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="27" width="50"/>
-  </a>  
+</a>  
 </p>
 
+<!-- 👇 Línea vacía importante -->
+  
 <h3 align="left">Languages and Tools:</h3>
-```markdown
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -25,7 +20,8 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-```
+
+
 
 
 <picture style="center">
